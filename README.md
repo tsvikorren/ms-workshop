@@ -9,7 +9,7 @@ Incoming HTTP allowed
 
 # Instructions
 * Create a Linux server and install Docker
-* Close this Git repository
+* Close this Git project
 * Make sure all the .sh scripts are executable (chmod +x *.sh)
 * run pull-images.sh
 * run install-aqua.sh
